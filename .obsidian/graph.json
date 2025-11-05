@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Cloud",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Conceitos de Nuvem\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5425632
+      }
+    },
+    {
+      "query": "path:\"Segurança e Conformidade\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431406
+      }
+    },
+    {
+      "query": "path:Tecnologia  ",
+      "color": {
+        "a": 1,
+        "rgb": 14736466
+      }
+    },
+    {
+      "query": "path:\"Faturamento e Suporte\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14570208
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2484375,
+  "lineSizeMultiplier": 1.01875,
+  "collapse-forces": false,
+  "centerStrength": 0.302083333333333,
+  "repelStrength": 13.5416666666667,
+  "linkStrength": 0.619791666666667,
+  "linkDistance": 221,
+  "scale": 0.6666666666666666,
+  "close": true
+}

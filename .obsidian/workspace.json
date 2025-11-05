@@ -1,0 +1,344 @@
+{
+  "main": {
+    "id": "0027da164bb6b7aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4efcb387dc5f48cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b2b59df2a2cf96b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practioner - Estudos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Cloud Practioner - Estudos"
+            }
+          },
+          {
+            "id": "c821504f5ca0e7ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceitos de Nuvem/Entendimento dos modelos de nuvem (público, privado, híbrido).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entendimento dos modelos de nuvem (público, privado, híbrido)"
+            }
+          },
+          {
+            "id": "ddf82e03f04e3248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceitos de Nuvem/Benefícios operacionais e financeiros da nuvem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Benefícios operacionais e financeiros da nuvem"
+            }
+          },
+          {
+            "id": "2a233e338c163549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practioner - Estudos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Cloud Practioner - Estudos"
+            }
+          },
+          {
+            "id": "a4b5ef3b8753733e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segurança e Conformidade/Responsabilidade Compartilhada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Responsabilidade Compartilhada"
+            }
+          },
+          {
+            "id": "1cc2a78a96f440bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segurança e Conformidade/Serviços de identidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serviços de identidade"
+            }
+          },
+          {
+            "id": "17f04c0357b1ccf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practioner - Estudos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Cloud Practioner - Estudos"
+            }
+          },
+          {
+            "id": "8af024510450eac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Visão geral dos serviços principais (Compute, Storage, Database, Networking).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visão geral dos serviços principais (Compute, Storage, Database, Networking)"
+            }
+          },
+          {
+            "id": "e3d1049343892763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faturamento e Suporte/Estruturas de preço (On-Demand, Reserved Instances, Savings Plans).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estruturas de preço (On-Demand, Reserved Instances, Savings Plans)"
+            }
+          },
+          {
+            "id": "32fe955fb78d9b64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faturamento e Suporte/Ferramentas de custo (Cost Explorer, Budgets).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ferramentas de custo (Cost Explorer, Budgets)"
+            }
+          },
+          {
+            "id": "24eb00761cdd0b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practioner - Estudos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Cloud Practioner - Estudos"
+            }
+          }
+        ],
+        "currentTab": 10
+      },
+      {
+        "id": "cf2bcd0400740cff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbd546b612729d29",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9ba68e06d5d6c8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "085031c1c08f7089",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a400228e8f614fd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "47392096045fbdd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "93c47cc8843e18ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c849872c501102f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce097ed266de0eec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "728331d0dee7b5d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cf6fcf86efff2087",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "35a706d659b3a849",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e3806ddc77f83b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "dbd546b612729d29",
+  "lastOpenFiles": [
+    "AWS Cloud Practioner - Estudos.md",
+    "Faturamento e Suporte/Diferenças entre os planos de Suporte (Basic, Developer, Business, Enterprise).md",
+    "Faturamento e Suporte/Ferramentas de custo (Cost Explorer, Budgets).md",
+    "Faturamento e Suporte/Estruturas de preço (On-Demand, Reserved Instances, Savings Plans).md",
+    "Tecnologia/Visão geral dos serviços principais (Compute, Storage, Database, Networking).md",
+    "Segurança e Conformidade/Segurança de dados.md",
+    "Segurança e Conformidade/Serviços de identidade.md",
+    "Segurança e Conformidade/Responsabilidade Compartilhada.md",
+    "Conceitos de Nuvem/Benefícios operacionais e financeiros da nuvem.md",
+    "Conceitos de Nuvem/Como a nuvem AWS resolve problemas de TI tradicionais.md",
+    "Conceitos de Nuvem/Entendimento dos modelos de nuvem (público, privado, híbrido).md",
+    "Faturamento e Suporte",
+    "Tecnologia",
+    "Segurança e Conformidade",
+    "Conceitos de Nuvem"
+  ]
+}
