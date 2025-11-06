@@ -29,3 +29,4 @@ Politicas para a bucket dizendo quem pode acessar, deletar, modificar e outras c
     }
   ]
 }
+
