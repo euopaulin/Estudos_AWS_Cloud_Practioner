@@ -26,3 +26,4 @@ Os nomes de buckets devem que ser `únicos`, pois depois é gerado um link para 
 
 [[Classes de amarzenamento]]
 [[Estrutura do S3]]
+[[Apagar Bucket]]
