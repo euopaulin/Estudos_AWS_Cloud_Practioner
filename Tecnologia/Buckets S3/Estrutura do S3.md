@@ -17,16 +17,17 @@ Politicas para a bucket dizendo quem pode acessar, deletar, modificar e outras c
 
 *Exemplo de código JSON*:
 
+```yml
 {
   "Version": "2012-10-17",
   "Statement": [
     {
-      "Sid": "PublicReadGetObject",                                *Aqui é informado a permissão da bucket*
-      "Effect": "Allow",                                                      *Aqui é informado quem pode*
-      "Principal": "*",*                                                           *Quais os arquivos*
-      "Action": "s3:GetObject",                                          *As ações permitidas*
-      "Resource": "arn:aws:s3:::meu-bucket/ *"                   Nome da bucket*
+      "Sid": "PublicReadGetObject",     #Aqui é informado a permissão da bucket
+      "Effect": "Allow",   #Aqui é informado quem pode
+      "Principal": "*",    #Quais os arquivos
+      "Action": "s3:GetObject",         #As ações permitidas
+      "Resource": "arn:aws:s3:::meu-bucket/ *"         #Nome da bucket
     }
   ]
 }
-
+```
