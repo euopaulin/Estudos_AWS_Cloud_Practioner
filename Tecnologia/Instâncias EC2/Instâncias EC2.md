@@ -11,3 +11,5 @@ Elastic Compute Cloud
 **2 - Conceitos**
 - Elasticidade = Ajusta o recurso conforme a demanda
 - Escalabilidade = Capacidade de crescer (Vertical/Horizontal)
+
+[[Tipos de Instancias EC2 e preços]]
