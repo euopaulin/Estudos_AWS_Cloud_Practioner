@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "a8f3cd0aa2a141f7",
+        "id": "89ce596984dfccc6",
         "type": "tabs",
         "children": [
           {
-            "id": "352c5c36b54285cf",
+            "id": "4c62997c5ab436b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Instâncias EC2/Instâncias EC2.md",
+                "file": "Tecnologia/Buckets S3/Apagar Bucket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instâncias EC2"
+              "title": "Apagar Bucket"
+            }
+          },
+          {
+            "id": "e315ae6e9c5b0c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Visão geral dos serviços principais (Compute, Storage, Database, Networking).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visão geral dos serviços principais (Compute, Storage, Database, Networking)"
+            }
+          },
+          {
+            "id": "d67815e15dcb1943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Instâncias EC2/Tipos de Instancias EC2 e preços.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tipos de Instancias EC2 e preços"
+            }
+          },
+          {
+            "id": "31cafe7dd2c3813b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segurança em EC2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Segurança em EC2"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,20 +209,24 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "352c5c36b54285cf",
+  "active": "31cafe7dd2c3813b",
   "lastOpenFiles": [
+    "Screenshot from 2025-11-11 22-33-36.png",
     "Tecnologia/Instâncias EC2/Tipos de Instancias EC2 e preços.md",
-    "Tecnologia/Fargate.md",
-    "AWS Cloud Practioner - Estudos.md",
-    "Tecnologia/Buckets S3/Apagar Bucket.md",
-    "Tecnologia/Visão geral dos serviços principais (Compute, Storage, Database, Networking).md",
+    "Segurança em EC2.md",
     "Tecnologia/Instâncias EC2/Instâncias EC2.md",
+    "Tipos de Instancias EC2 e preços.md",
+    "Tecnologia/Fargate.md",
     "Tecnologia/Buckets S3/Buckets S3.md",
+    "Tecnologia/Buckets S3/Apagar Bucket.md",
     "Faturamento e Suporte/Ferramentas de custo (Cost Explorer, Budgets).md",
     "Faturamento e Suporte/Estruturas de preço (On-Demand, Reserved Instances, Savings Plans).md",
     "Faturamento e Suporte/Diferenças entre os planos de Suporte (Basic, Developer, Business, Enterprise).md",
     "Tecnologia/Buckets S3/Estrutura do S3.md",
+    "Tecnologia/Visão geral dos serviços principais (Compute, Storage, Database, Networking).md",
     "Tecnologia/Instâncias EC2",
+    "AWS Cloud Practioner - Estudos.md",
+    "Fargate.md",
     "Images/Screenshot from 2025-11-06 22-30-31.png",
     "Screenshot from 2025-11-06 22-30-31.png",
     "Tecnologia/Buckets S3/Classes de amarzenamento.md",

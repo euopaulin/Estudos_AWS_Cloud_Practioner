@@ -6,6 +6,6 @@ Compute Optimizer =
 
 
 **Modelos de preços**
-- On-demand = Pagar agora, paga pelo uso
-- Savings Plans = Contrato de uso
-- Spots instancias = Usa os recursos que a Amazon não está utilizando
+- **On-demand** = Pagar agora, paga pelo uso
+- **Savings Plans** = Contrato de uso
+- **Spots instancias** = Usa os recursos que a Amazon não está utilizando
