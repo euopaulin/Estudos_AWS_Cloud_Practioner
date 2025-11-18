@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam content/Tecnologia/EKS/Containers.md",
+                "file": "Exam content/Tecnologia/EKS/EKS - Amazon Elastic Container.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Containers"
+              "title": "EKS - Amazon Elastic Container"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "b634acecda140756",
   "lastOpenFiles": [
-    "Sem título.md",
     "Exam content/Tecnologia/EKS/Containers.md",
+    "Sem título.md",
     "Exam content/AWS Cloud Practioner - Estudos.md",
     "Exam content/Images/Pasted image 20251118134826.png",
     "Pasted image 20251118134833.png",
