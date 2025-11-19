@@ -200,6 +200,7 @@
   },
   "active": "738c82c47edb9bb6",
   "lastOpenFiles": [
+    "Codes/Criar instância EC2/configEC2.py",
     "Codes/Criar instância EC2/sshconec.txt",
     "Codes/Criar instância EC2/createEC2.bash",
     "Codes/Criar instância EC2/configEC2.bash",
@@ -210,7 +211,6 @@
     "Codes/Criar instância EC2",
     "Codes/Criar ECS/ec2tocontainerlx.bash",
     "Codes/Criar ECS",
-    "Codes/Criar EC2/createec2.bash",
     "Exam content/Tecnologia/EKS/EKS - Amazon Elastic Container.md",
     "Exam content/Tecnologia/EKS/Cluster.md",
     "Exam content/Tecnologia/EKS/Containers.md",
